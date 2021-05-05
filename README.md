@@ -32,7 +32,7 @@ datasource-proxy <br/>
 ### Save customer sucessfully to database
 
 Method : HTTP.POST <br/>
-URL : http://localhost:8080/customer/save <br/>
+URL : http://localhost:8080/customer-info/customer/save <br/>
 
 Request : 
 <pre>
