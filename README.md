@@ -4,13 +4,13 @@
 2- ER diagram :  <br/>
 NOT : Many OrderItem related to One CustomerOrder <br/>
 
-![alt text](https://github.com/tufangorel/spring-boot-hibernate-unidirectional-many-to-one-relationship-mapping/blob/main/customer_order_item_er_diagram.png) <br/>
+![customer_order_item_er_diagram](doc/customer_order_item_er_diagram.png) <br/>
 
 
 3- Start Spring Boot application with a specific profile such as "-Dspring.profiles.active=dev" . <br/>
 4- swagger-ui can be accessed from URL : http://localhost:8080/customer-info/swagger-ui/ <br/><br/>
 
-![alt text](https://github.com/tufangorel/spring-boot-hibernate-unidirectional-many-to-one-relationship-mapping/blob/main/order_item_swagger_ui.png)
+![order_item_swagger_ui](doc/order_item_swagger_ui.png)
 <br/>
 
 ### Tech Stack
